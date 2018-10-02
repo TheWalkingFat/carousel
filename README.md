@@ -1,6 +1,8 @@
 # carousel
 
-> A Vue.js project
+基于移动端，丝滑般无缝连接的轮播图，有惯性移动效果以及反弹效果，纯原生JS
+
+Based on the mobile side, the silky seamless connection of the carousel map, with inertial movement effect and rebound effect, pure native JS
 
 ## Build Setup
 
